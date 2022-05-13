@@ -1,16 +1,21 @@
-### Hi there 👋
+# Carlos Abreu
+## Desenvolvedor Front-end Junior
 
-<!--
-**ocariocawebdesign/ocariocawebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Front-End Junior freelancer sempre em busca de novos desafios. Uma das minhas paixões e motivo de orgulho é ser usuário do Ubuntu Linux onde busco realizar todos os processos do meu trabalho usando software livre.
+Tenho experiência com HTML5, CSS3, Bootstrap e no momento estudando Javascript / React.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+
+- [HTML / CSS / JavaScript / Bootstrap /  Wordpress] - Desenvolvimento de websites
+
+
+## Projetos
+
+Desenvolveu recentemente website do [Projeto Ondas Arpoador](https://ondasarpoador.com.br/) utilizando  [GatsbyJs](https://www.gatsbyjs.com/) .
+
+
+
+  
