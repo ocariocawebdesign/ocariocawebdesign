@@ -1,3 +1,6 @@
+
+![Screenshot](logo.png)
+
 # Carlos Abreu
 ## Desenvolvedor Front-end Junior
 
