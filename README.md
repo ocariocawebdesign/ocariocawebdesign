@@ -21,6 +21,7 @@ Tenho experiência com HTML5, CSS3, Bootstrap e no momento estudando Javascript 
 - E-commerce da MCA Games com Woocomerce - Projeto em andamento.
 - Desenvolveu recentemente website do [Projeto Ondas Arpoador](https://ondasarpoador.com.br/) utilizando  [GatsbyJs](https://www.gatsbyjs.com/) .
 - Website da antiga pizzaria [PrimoCappo](https://ocariocawebdesign.github.io/promocoes-delivery/) - Sistema de promoções integrado com Whatsapp utilizando HTML, CSS, Bootstrap e JavaScript.
+- Website [Espirales Crochê](https://espirales.netlify.app/)  com HTML, CSS, Bootstrap e JavaScript - Projeto em andamento.
 
 ## Contato
 
