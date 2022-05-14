@@ -26,6 +26,7 @@ Tenho experiência com HTML5, CSS3, Bootstrap e no momento estudando Javascript 
 ## Contato
 
 - Website: [O Carioca Web](https://ocariocaweb.gatsbyjs.io/)
+- (21) 96753-0653
 
 
 
