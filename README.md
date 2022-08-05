@@ -16,7 +16,7 @@ Tenho experiência com HTML5, CSS3, Bootstrap e no momento estudando Javascript 
 - [HTML / CSS / JavaScript / Bootstrap /  Wordpress] - Desenvolvimento de websites
 
 
-## Projetos
+## Projetos atuais
 
 - E-commerce da MCA Games com Woocomerce - Projeto em andamento.
 - Desenvolveu recentemente website do [Projeto Ondas Arpoador](https://ondasarpoador.com.br/) utilizando  [GatsbyJs](https://www.gatsbyjs.com/) .
