@@ -1,7 +1,4 @@
 
-![Logo](https://github.com/ocariocawebdesign/ocariocawebdesign/blob/main/src/components/Header/img/logo.png)
-
-
 # Carlos Abreu
 ## Desenvolvedor Front-end Junior
 
