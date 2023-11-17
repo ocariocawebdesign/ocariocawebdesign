@@ -1,9 +1,9 @@
 
 # Carlos Abreu
-## Desenvolvedor Front-end Junior
+## Desenvolvedor Web Front-end 
 
 > Front-End Junior freelancer sempre em busca de novos desafios.
-Tenho experiência com HTML5, CSS3, Bootstrap e no momento estudando Javascript, React e PHP.
+Tenho experiência com HTML5, CSS3, Bootstrap, Javascript, React e PHP.
 
 ## Skills
 
