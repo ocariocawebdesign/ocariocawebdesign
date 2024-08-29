@@ -8,12 +8,12 @@ Tenho experiência com HTML5, CSS3, Bootstrap, Javascript, React e PHP.
 
 ## Skills
 
-- [HTML5 / CSS3 / Bootstrap /Styled-Components / Javascript / React Básico / Wordpress]
+- [HTML5 / CSS3 / Bootstrap / Tailwind CSS / Javascript / React JS / Wordpress]
 
 ## Contato
 
 - Website: [O Carioca Web](https://ocariocaweb.gatsbyjs.io/)
-- (21) 96753-0653
+- (21) 999-104877
 
 
 
